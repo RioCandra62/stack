@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1734278410 source:d:\codeblock files\latihanstack\main.cpp
+	<iostream>
+	"stack.h"
+
+1734278739 d:\codeblock files\latihanstack\stack.h
+	<iostream>
+
+1734278739 source:d:\codeblock files\latihanstack\stack.cpp
+	"stack.h"
+
